@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+opencv-python
+numpy
+librosa
+soundfile
+python-dotenv
+aiofiles
+requests
+Pillow
+psycopg2-binary
